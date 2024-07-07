@@ -1,0 +1,175 @@
+li,
+.logo,
+.option {
+    display: inline-block;
+}
+
+.logo {
+
+    width: 33%;
+}
+
+select,
+option {
+    background-color: black;
+    color: white;
+    width: 75px;
+    border: none;
+    align-self: center;
+
+}
+.benir{
+    background-image:url("https://techno-workdo.myshopify.com/cdn/shop/files/main-banner-1.png?v=1714560913");
+background-size: cover;
+background-position: center;
+width: 100%;
+height: 500px;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.content{
+    color: white;
+    padding-top: 10%;
+    
+}
+p{
+    font-size: 20px;
+}
+h2{
+    font-size: 60px;
+    text-shadow: -38px -25px 3px rgb(66, 65, 65);
+    letter-spacing:10px;
+}
+button{
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 45px;
+    background-color: rgb(52, 153, 248);
+    color: white;
+    
+    border: none;
+}
+figure{
+    display: inline-block;
+    background-color: rgb(20, 19, 19);
+    color: white;
+    width: 110px;
+    
+    text-align: center;
+}
+.list{
+    background-color: rgb(39, 37, 37);
+    height:150px ;
+    width: 150px;
+    border-radius: 50% 50% 50% 50%;
+    padding-top: 10px;
+    
+}
+.box{
+    display: inline-block;
+    margin-left: 35px;
+    margin-right: 35px;
+    text-align: center;
+    
+}
+a{
+    color: white;
+}
+h3{
+    color: white;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: -15px -15px 4px rgb(66, 65, 65);
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.span1{
+    background-image: url("https://techno-workdo.myshopify.com/cdn/shop/files/box-image-1.png?v=1714622893");
+background-size: cover;
+background-position: center;
+width: 46%;
+height: 300px;
+color: white;
+text-align: center;
+display: inline-block;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+padding-top: 50px;
+margin: 20px;
+}
+.span2{
+    background-image: url("https://techno-workdo.myshopify.com/cdn/shop/files/box-image-2.png?v=1714622894");
+    background-size: cover;
+    background-position: center;
+    width: 46%;
+    height: 300px;
+    color: white;
+    text-align: center;
+    display: inline-block;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+padding-top: 50px;
+margin: 20px;
+
+}
+
+
+.card{
+    display: inline-block;
+    background-color: rgb(39, 37, 37);
+    margin: 22px;
+    
+}
+.img{
+    background-color: rgb(71, 69, 69);
+    margin: 15px;
+    border-bottom: 2px rgb(0, 81, 255);
+    border-style: double;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.cardtext{
+    color: white;
+    margin: 15px;
+    padding-bottom: 50px;
+    font-size: 33px;
+    line-height: 35px;
+}
+.last{
+background-color: #3d3d3d;
+background-image:url("https://techno-workdo.myshopify.com/cdn/shop/files/discount-banner.png?v=1714633110");
+background-repeat: cover;
+background-position: center;
+height: 500px;
+margin: 20px;
+background-blend-mode: overlay;
+text-align: center;
+color: white;
+padding-top:80px ;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.last> h3 {
+    font-size: 50px;
+}
+.last>p{
+    font-size: 30px;
+}
+.last> button{
+    font-size: large;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.last>span{
+    font-size: 20px;
+}
+.main {
+    margin-left: 28px;
+}
+.itemList{
+padding-left:70px ;
+}
+section{
+    min-width: 887px;
+    max-width: 1621px;
+}
