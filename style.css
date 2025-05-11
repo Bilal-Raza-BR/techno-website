@@ -127,7 +127,7 @@ margin: 20px;
 .img{
     background-color: rgb(71, 69, 69);
     margin: 15px;
-    border-bottom: 2px rgb(0, 81, 255);
+    border-bottom: 8px rgb(0, 81, 255);
     border-style: double;
     border-top: none;
     border-left: none;
